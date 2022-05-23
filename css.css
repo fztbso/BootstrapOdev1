@@ -1,0 +1,40 @@
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding:12px 16px;
+    background-color: gray;
+    color:white;
+    text-decoration:none; 
+}
+li a:hover{
+    background-color: black; 
+}
+
+.jumbotron{
+    background-color:  #E9ECEF;
+}
+
+.card{
+    float: left;
+}
+
+.card-text{
+    color: blueviolet;
+}
+
+.card-title{
+    font-weight: bold;
+}
+
+.btn{
+    background-color: gray;
+}
